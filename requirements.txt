@@ -1,4 +1,4 @@
 DrissionPage>=4.0.0
 beautifulsoup4>=4.9.3
-requests>=2.25.1
-python-dotenv>=0.19.0 
+python-dotenv>=0.19.0
+requests>=2.26.0 
